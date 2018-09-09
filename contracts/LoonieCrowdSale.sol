@@ -5,7 +5,7 @@ import "openzeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol";
 import "openzeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol";
 
 
-contract LoonieCrowdsale is TimedCrowdsale, MintedCrowdsale {
+contract LoonieCrowdSale is TimedCrowdsale, MintedCrowdsale {
     
     constructor
     (
